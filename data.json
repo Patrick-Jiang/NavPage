@@ -1,0 +1,38 @@
+[
+  {
+    "categoryName":"Front-End",
+    "categoryIcon":"img/icon.png",
+    "sites":[
+      {
+        "name":"abcd",
+        "img":"img.png",
+        "link":"https://asc.com",
+        "desc":"something here"
+      },
+      {
+        "name":"bide",
+        "img":"img2.png",
+        "link":"https://asec.com",
+        "desc":"something here2"
+      }
+    ]
+  },
+   {
+    "categoryName":"react",
+    "categoryIcon":"img/icon.png",
+    "sites":[
+      {
+        "name":"abc",
+        "img":"img.png",
+        "link":"https://asc.com",
+        "desc":"something here"
+      },
+      {
+        "name":"bcd",
+        "img":"img2.png",
+        "link":"https://asec.com",
+        "desc":"something here2"
+      }
+    ]
+  }
+]
