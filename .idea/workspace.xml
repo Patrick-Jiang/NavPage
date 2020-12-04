@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ce901b-06db-4da9-9ac9-62a1016f950e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NavPage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
